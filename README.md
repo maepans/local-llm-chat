@@ -78,6 +78,12 @@ key, no rate limit, no bill. Small instruct models like `llama3.2` (3B) or
 [`chatbot/core.py`](chatbot/core.py) or pick a different one from the sidebar
 once you've pulled it with `ollama pull <model>`.
 
+## System architecture
+
+<img width="666" height="272" alt="image" src="https://github.com/user-attachments/assets/6e4c0671-91f2-4f44-b002-5056b0ffd236" />
+
+
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
